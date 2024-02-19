@@ -47,22 +47,12 @@ GitHub Stats               |  Top Langs
 [![Yuxin's github stats](https://github-readme-stats.vercel.app/api?username=essieding&show_icon=true&theme=one_dark_pro)](https://github.com/essieding) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essieding&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Project Showcase
-Distributed File Storage System (Java, SpringBoot, MyBatis Plus, MySQL, Redis)
-
 [![E-Cloud](https://github-readme-stats.vercel.app/api/pin?username=essieding&repo=e-cloud&theme=radical)](https://github.com/EssieDing/e-cloud)
-
-Mini Amazon E-Commerce System (C++, Django, PostgreSQL, Docker)
 
 [![Mini Amazon UPS](https://github-readme-stats.vercel.app/api/pin?username=essieding&repo=Mini_Amazon_UPS&theme=radical)](https://github.com/EssieDing/Mini_Amazon_UPS)
 
-HTTP Caching Proxy Server (C++, Web, REST, TCP Socket, Multi-threading)
-
 [![HTTP Caching Proxy](https://github-readme-stats.vercel.app/api/pin?username=essieding&repo=HTTP-Caching-Proxy&theme=radical)](https://github.com/EssieDing/HTTP-Caching-Proxy)
 
-Wild Hunt 3D Game (C#, Unity)
-
 [![Wild Hunt 3D](https://github-readme-stats.vercel.app/api/pin?username=essieding&repo=Wild_Hunt_3D&theme=radical)](https://github.com/EssieDing/Wild_Hunt_3D)
-
-Multi-UVCCamera Live Streaming Platform (Java, RTSP, RTMP, Nginx, Android, ADB)
 
 [![Multi-UVCCamera Live Stream](https://github-readme-stats.vercel.app/api/pin?username=essieding&repo=Android-Live-Stream&theme=radical)](https://github.com/EssieDing/Android-Live-Stream)
