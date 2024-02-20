@@ -6,7 +6,7 @@
 ## Hi there 👋
 #### My name is Yuxin Ding. I study Electrical and Computer Engineering at Duke University. I will Graduate in May 2024.
 
-- Check out my personal portfolio is []().
+- Check out my personal portfolio is [essieding.com](https://essieding.com).
 - My interests lay in backend development, full-stack web development, mobile app development, and game development.
 - I am actively seeking for new graduate opportunities as an entry-level software engineer.
 - Reach out to me at [LinkedIn](https://www.linkedin.com/in/yuxin63/) or yuxin.ding18@gmail.com, Let's make friends!
