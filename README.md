@@ -6,7 +6,7 @@
 ## Hi there 👋
 #### My name is Yuxin Ding. I study Electrical and Computer Engineering at Duke University. I will Graduate in May 2024.
 
-- Check out my personal portfolio is [essieding.com](https://essieding.com).
+- Check out my personal portfolio is [yuxinding.me](https://yuxinding.me).
 - My interests lay in backend development, full-stack web development, mobile app development, and game development.
 - I am actively seeking for new graduate opportunities as an entry-level software engineer.
 - Reach out to me at [LinkedIn](https://www.linkedin.com/in/yuxin63/) or yuxin.ding18@gmail.com, Let's make friends!
@@ -16,6 +16,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
